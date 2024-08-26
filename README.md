@@ -15,6 +15,10 @@ Ensure you have Node.js (version 14 or later) installed on your machine. You'll 
 1. First, clone the repository to your local machine and navigate into the project directory.
 
 2. Next, install the project dependencies. If you're using npm, simply run `npm install`. For those using yarn, run `yarn install`.
+3. ```bash
+   npm install
+4. ```bash
+   npm run dev
 
 ### Running the Project
 
