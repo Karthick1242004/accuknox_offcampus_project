@@ -1,0 +1,44 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2%;
+    padding: 0% 3%;
+    flex-wrap: wrap;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    margin-top: 1.5%;
+    
+}
+.bt1{
+    width: 100px;
+    border: none;
+    background-color: white;
+    color: #848485;
+    padding: 1% 5%;
+    height:35px;
+    border: 2px solid #dedede;
+    border-radius: 4px;
+}
+.bt4{
+    width: 100px;
+    border: none;
+    background-color: white;
+    color: #848485;
+    padding: 1% 5%;
+    height:35px;
+    border: 2px solid #dedede;
+    border-radius: 4px;
+}
+.bt2{
+    border: none;
+    background-color: white;
+    color: #848485;
+    height:35px;
+    width: 100%;
+    border: 2px solid #dedede;
+    border-radius: 4px;
+}
